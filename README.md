@@ -20,7 +20,7 @@ MySQL
 
 bash
 
-git clone https://github.com/your-username/makersharks-supplier-search-api.git
+git clone https://github.com/mukeshpatel07/Makersharks-Assessment.git
 
 cd makersharks-supplier-search-api
 
