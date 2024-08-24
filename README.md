@@ -9,7 +9,9 @@ A powerful Spring Boot API enabling buyers to search manufacturers by location, 
 **⚙️ Prerequisites**
 
 JDK 17
+
 Maven
+
 MySQL
 
 
